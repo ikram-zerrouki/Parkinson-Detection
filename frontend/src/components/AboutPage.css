@@ -1,0 +1,178 @@
+.about-container {
+  background: linear-gradient(135deg, #A3FFC7 0%, #FFFFFF 100%);
+  padding: 20px;
+  min-height: 100vh;
+  padding-top: 80px; 
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centrer horizontalement tout le contenu */
+}
+
+.about-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.highlightAbout {
+  color: #34c759;
+}
+
+.about-sections {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1200px;
+  text-align: center;
+}
+
+.about-section {
+  background-color: #c8f6e1;
+  padding: 20px;
+  width: 48%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.section-text {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #000000;
+}
+
+/* Styles pour la deuxième partie */
+.vision-mission-values {
+  margin-top: 50px;
+  width: 100%;
+  max-width: 1200px;
+  text-align: center;
+}
+
+.vmv-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.vmv-underline {
+  width: 120px;
+  height: 4px;
+  background-color: #34c759;
+  margin: 0 auto 30px auto;
+}
+
+.vmv-sections {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  text-align: center; /* Centrer les icônes et le texte */
+}
+
+.vmv-item {
+  width: 30%;
+  text-align: center; /* Centrer chaque section */
+}
+
+.vmv-icon {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 10px;
+}
+
+.vision-icon {
+  background-image: url('../assets/images/Frame 53.png');
+  background-size: cover;
+}
+
+.mission-icon {
+  background-image: url('../assets/images/Frame 37.png');
+  background-size: cover;
+}
+
+.values-icon {
+  background-image: url('../assets/images/Frame 39.png');
+  background-size: cover;
+}
+
+.vmv-subtitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.vmv-text {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Styles pour la section Team et Supervised By */
+.team-section {
+  margin-top: 50px;
+  width: 100%;
+  max-width: 1200px;
+  text-align: center;
+}
+
+.team-title, .supervised-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.team-underline, .supervised-underline {
+  width: 120px;
+  height: 4px;
+  background-color: #34c759;
+  margin: 0 auto 30px auto;
+}
+
+.team-members {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+
+.team-member {
+  text-align: center;
+}
+
+.team-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.social-link {
+  margin: 0 10px;
+  color: #34c759;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.supervisor {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.supervisor-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
