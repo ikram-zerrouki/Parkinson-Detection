@@ -1,0 +1,127 @@
+.begin-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background-color: #f9f9f9; /* Light background */
+    flex-wrap: wrap; /* Allows content to wrap on smaller screens */
+  }
+  
+  .begin-content {
+    max-width: 45%;
+    margin-top: -70px;
+  }
+  
+  .begin-content h2 {
+    color: #000000;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .begin-content p {
+    color: #000000;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    text-align: left;
+    font-size: 22px;
+  }
+  
+  .sign-up-button {
+    background-color: #ffffff;
+    border: 2px solid #ffffff;
+    color: #000000;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #12C675;
+    border-color: #12C675;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sign-up-button:hover {
+    opacity: 0.8;
+  }
+  
+  .begin-image {
+    max-width: 50%;
+    text-align: right;
+  }
+  
+  .begin-image img.image-border {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .separator {
+    width: 20px;
+    background-color: #12C675; /* Matching the green theme */
+    height: 100px;
+    margin-bottom: 430px;
+    margin-left: 200px;
+    text-align: left;
+  }
+  
+  /* Media Queries for Responsiveness */
+  
+  /* Tablets */
+  @media (max-width: 1024px) {
+    .begin-section {
+      padding: 30px;
+    }
+  
+    .begin-content {
+      max-width: 100%;
+      text-align: center;
+      margin-top: 0;
+    }
+  
+    .begin-image {
+      max-width: 100%;
+      text-align: center;
+      margin-top: 20px;
+    }
+  
+    .separator {
+      margin: 0 auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+  }
+  
+  /* Mobile Devices */
+  @media (max-width: 768px) {
+    .begin-section {
+      flex-direction: column;
+      padding: 20px;
+    }
+  
+    .begin-content {
+      max-width: 100%;
+      margin-top: 0;
+      text-align: center;
+    }
+  
+    .begin-content h2 {
+      font-size: 1.5em;
+    }
+  
+    .begin-content p {
+      font-size: 18px;
+    }
+  
+    .begin-image {
+      max-width: 100%;
+      margin-top: 20px;
+      text-align: center;
+    }
+  
+    .separator {
+      width: 100%;
+      height: 10px;
+      margin: 20px 0;
+    }
+  }
+  
