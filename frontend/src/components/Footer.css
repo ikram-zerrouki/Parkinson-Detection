@@ -1,0 +1,46 @@
+.footer {
+    background-color: #12C675; /* Green background */
+    color: #f9f9f9; /* White text color */
+    padding: 120px 0; /* Adjust padding for content */
+    text-align: center;
+    width: 100%;
+    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 40%);
+    position: relative; /* Ensures the footer is positioned relative to the page */
+    margin-top: auto; /* Pushes the footer to the bottom if the content is not enough */
+  }
+  
+  .footer-links {
+    display: flex;
+    text-decoration: none; /* Remove underline */
+    justify-content: space-between; /* Space between the links */
+    align-items: center; /* Align vertically */
+    width: 80%; /* Adjust width for spacing */
+    max-width: 1200px; /* Set a max-width for large screens */
+    margin: 0 auto; /* Center the links */
+  }
+
+  .footer-links a {
+    color: #000; /* Black text color */
+    font-weight: bold; /* Make the text bold */
+    font-size: 1.5rem; 
+    text-decoration: none; /* Remove underline */
+    margin: 0 15px; /* Space between each link */
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline; /* Add underline on hover for better UX */
+  }
+  
+  
+  .footer-bottom {
+    color: #000; /* Black text color */
+    position: absolute; /* Position it at the bottom of the footer */
+    bottom: 10px; /* Space from the bottom */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Adjust for perfect centering */
+    font-size: 18px; /* Smaller text */
+    font-weight: bold;
+    text-align: center; /* Center text */
+    width: 100%; /* Take full width */
+  }
+  
