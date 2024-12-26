@@ -1,0 +1,135 @@
+/* Parent container for the title and separator */
+.title-container {
+  display: flex;
+  align-items: center; /* Aligns the separator and title on the same line */
+  margin-bottom: 20px; /* Adjust this to match your design */
+}
+
+/* Style for the title */
+.title-container h2 {
+  font-size: 2.5em; /* Keep the original size */
+  color: #000000;
+  margin: 0; /* Remove default margin */
+  padding-right: 15px; /* Space between the title and separator */
+}
+
+/* Style for the separator */
+.separator2 {
+  width: 22px; /* Set the desired width */
+  height: 100px; /* Keep the height as needed */
+  background-color: #12C675; /* Matching the green theme */
+  margin-left: 10px; /* Space between the heading and separator */
+}
+
+/* Existing styles from your code */
+
+.how-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+  background-color: #f9f9f9; /* Light background */
+  flex-wrap: wrap; /* Allows content to wrap on smaller screens */
+}
+
+.how-content {
+  max-width: 45%;
+  margin-top: -70px;
+}
+
+.how-content p {
+  color: #000000;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  text-align: left;
+  font-size: 22px;
+}
+
+.learn-more-button {
+  background-color: #ffffff;
+  border: 2px solid #ffffff;
+  color: #000000;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #12C675;
+  border-color: #12C675;
+  display: flex;
+  flex-direction: column;
+}
+
+.learn-more-button:hover {
+  opacity: 0.8;
+}
+
+.begin-image {
+  max-width: 50%;
+  text-align: right;
+}
+
+.begin-image img.image-border {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Media Queries for Responsiveness */
+
+/* Tablets */
+@media (max-width: 1024px) {
+  .how-section {
+    padding: 30px;
+  }
+
+  .how-content {
+    max-width: 100%;
+    text-align: center;
+    margin-top: 0;
+  }
+
+  .how-image {
+    max-width: 100%;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .separator2 {
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+/* Mobile Devices */
+@media (max-width: 768px) {
+  .how-section {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .how-content {
+    max-width: 100%;
+    margin-top: 0;
+    text-align: center;
+  }
+
+  .how-content h2 {
+    font-size: 1.5em;
+  }
+
+  .how-content p {
+    font-size: 18px;
+  }
+
+  .how-image {
+    max-width: 100%;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .separator2 {
+    width: 100%;
+    height: 10px;
+    margin: 20px 0;
+  }
+}
