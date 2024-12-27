@@ -1,0 +1,99 @@
+/* Styles spécifiques à la page de login */
+.login-page {
+    background-image: url('../assets/images/background loginpage.jpg'); /* Remplace par le chemin de ton image */
+    background-size: cover; /* Pour que l'image prenne toute la place */
+    background-position: center; /* Centrer l'image */
+    background-repeat: no-repeat; /* Pour éviter que l'image se répète */
+    height: 100vh; /* S'assure que le fond prend toute la hauteur */
+    background-color: #A3FFC8; /* Couleur de fond de secours */
+}
+
+.login-container {
+    display: flex;
+    justify-content: center; /* Centre le contenu horizontalement */
+    align-items: center; /* Centre le contenu verticalement */
+    height: 100%;
+}
+
+.photo-section {
+    width: 40%; /* Réduit la largeur à 40% */
+    height: 90%; /* Ajuste la hauteur pour éviter que l'image prenne trop de place */
+    background-image: url('../assets/images/doctor img.jpg'); /* Remplace par l'image de la photo */
+    background-size: cover;
+    background-position: center;
+    margin-right: 20px;
+}
+
+.login-box {
+    width: 40%; /* Réduit également la largeur de la section login pour un meilleur équilibre */
+    padding: 40px;
+    background-image: url('../assets/images/loginSectionTransp.png'); /* Remplace par le chemin de l'image de fond pour la section login */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    
+    text-align: center;
+    background-color: transparent; /* Optionnel: Ajoute un fond sombre semi-transparent pour améliorer la lisibilité du texte */
+}
+
+.login-titleLog {
+    font-size: 28px;
+    color: #000000; /* Texte blanc pour contraster avec l'image */
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.login-page .input-group label {
+    font-size: 14px;
+    color: #242424;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.login-page .input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.login-page .login-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #1abc9c;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.login-page .login-button:hover {
+    background-color: #16a085;
+}
+
+.login-page .login-footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.login-page .login-footer a {
+    font-size: 14px;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+.login-page .login-footer a:hover {
+    text-decoration: underline;
+}
