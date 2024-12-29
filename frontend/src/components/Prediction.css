@@ -1,0 +1,99 @@
+.prediction-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to bottom, #b1f1c1 ,#e8f8f0 ); 
+  }
+  
+  .prediction-content {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.199); 
+    padding: 50px;
+    border-radius: 15px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1); 
+    width: 80%; 
+    max-width: 1000px; 
+    margin: 0 auto;
+  }
+  
+  
+  h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #666; 
+  }
+  
+  .circular-progress {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    position: relative;
+  }
+  
+  .circle {
+    width: 180px;
+    height: 180px;
+    background: conic-gradient(#12C675 0% 67%, #e0e0e0 67% 100%);
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .circle::before {
+    content: '';
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 130px;
+    height: 130px;
+    background-color: #d8ffe3;
+    border-radius: 50%;
+  }
+  
+  .circle span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .prediction-text {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 40px;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .btn {
+    background-color: #12C675;
+    color: white;
+    padding: 0.75rem 3rem;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    font-family: "Saira Condensed", sans-serif;
+  }
+  
+  .btn:hover {
+    background-color: #12c6758c;
+  }
+  
+  
