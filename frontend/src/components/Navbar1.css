@@ -1,0 +1,109 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent; 
+  padding: 20px;
+  color: #ffffff;
+  position: absolute; 
+  top: 0; 
+  width: 100%; 
+  z-index: 10; 
+}
+
+.navbar-logo a {
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.logo-green {
+  color: #12C675;
+}
+
+.logo-white {
+  color: #ffffff;
+}
+
+.navbar-menu {
+  display: flex;
+  list-style-type: none;
+}
+
+.navbar-menu li {
+  margin: 0 15px;
+}
+
+.navbar-menu li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 18px;
+  position: relative;
+  font-weight: bold;
+}
+
+.navbar-menu li a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -5px; 
+  width: 0%;
+  height: 2px;
+  background-color: #ffffff;
+  transition: width 0.3s ease-in-out;
+}
+
+.navbar-menu li a:hover::after {
+  width: 100%;
+}
+
+.navbar-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-buttons .btn-login,
+.navbar-buttons .btn-signup {
+  background-color: #ffffff;
+  border: 2px solid #ffffff;
+  color: #000000;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.navbar-buttons .btn-signup {
+  background-color: #12C675;
+  border-color: #12C675;
+}
+
+.navbar-buttons .btn-login:hover,
+.navbar-buttons .btn-signup:hover {
+  opacity: 0.8;
+}
+
+.language-switcher {
+  margin-left: 15px;
+}
+
+.language-switcher select {
+  background-color: transparent;
+  color: #ffffff;
+  border: none;
+  padding: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.language-switcher select:hover {
+  opacity: 0.8;
+  background-color: #000000;
+}
+
+* {
+  box-sizing: border-box;
+}
+
