@@ -1,0 +1,95 @@
+/* Privacy Policy Page */
+.privacy-policy-page {
+    background: linear-gradient(to bottom, #9ae6b4, #c6f6d5a7); /* Light green gradient */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Main Content */
+.main-content {
+    width: 60%;
+    margin-top: 80px;
+    padding: 2rem;
+    background-color: #d8f3dc;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    color: #2f3e46;
+}
+
+/* Heading Styles */
+.main-content h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #2d3130;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+/* Paragraph Styles */
+.main-content p {
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+    font-size: 1.1rem;
+    color: #2d3748;
+    text-align: justify;
+    text-indent: 0;
+    letter-spacing: 0.3px;
+}
+
+/* List Styles */
+.main-content ul {
+    padding-left: 20px;
+    list-style-type: none;
+}
+
+.main-content ul li {
+    margin-bottom: 15px;
+    padding-left: 20px;
+    font-size: 1.1rem;
+    color: #404143;
+    line-height: 1.8;
+    position: relative;
+}
+
+/* Custom Bullet for List Items */
+.main-content ul li::before {
+    content: "-";
+    position: absolute;
+    left: 0;
+    color: #12C675;
+    font-size: 1.5rem; /* Larger bullet size for emphasis */
+    top: -2px;
+}
+
+/* Footer Styles */
+.footerP {
+    width: 100%;
+    padding: 1.5rem 0;
+    background-color: transparent;
+    text-align: center;
+    margin-top: auto;
+}
+
+/* Back Button in Footer */
+.back-button {
+    background-color: #12C675;
+    color: white;
+    padding: 0.75rem 2rem;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.back-button:hover {
+    background-color: #12c6758c;
+}
+
+
+/* Remove bullets for specific items */
+.main-content ul li.no-bullet::before {
+    content: '';
+}
