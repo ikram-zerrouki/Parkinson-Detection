@@ -1,0 +1,160 @@
+.signup-page {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  height: 100vh;
+  background-image: url('../assets/images/background signup.jpg'); /* Remplace par ton chemin d'image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.login-container {
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-box {
+  background-image: url('../assets/images/loginSectionTransp.png'); /* Remplace par le chemin de l'image de fond pour la section login */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  padding-top: 80px;
+  padding: 40px;
+  width: 350px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  color: white; /* Texte blanc pour contraster avec l'image */
+}
+
+.login-title {
+  font-size: 28px;
+  color: #CDCDCD;
+  margin-bottom: 20px;
+}
+
+.input-group {
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.input-group label {
+  font-size: 14px;
+  color: #ffff;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.login-button {
+  width: 100%;
+  padding: 12px;
+  background-color: #1abc9c;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.login-button:hover {
+  background-color: #16a085;
+}
+
+.login-footer {
+  display: flex;
+  justify-content: center; /* Centre le contenu */
+  margin-top: 20px;
+}
+
+.login-footer p {
+  font-size: 14px;
+  color: #ffff;
+}
+
+.login-footer .login-link {
+  color: #12C675;
+  text-decoration: none;
+}
+
+.login-footer .login-link:hover {
+  text-decoration: underline;
+}
+
+.input-with-icon {
+  position: relative;
+}
+
+.input-icon {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #ccc;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 10px 10px 10px 40px; /* Ajoute un espace pour l'icône */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+/* Style pour la case à cocher des conditions générales */
+/* Style pour la case à cocher et le texte des conditions générales */
+.signup-page .input-group label {
+  font-size: 14px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Espace entre la checkbox et le texte */
+  white-space: nowrap; /* Empêche le texte de passer à la ligne */
+}
+
+.signup-page .input-group input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+/* Style du lien "terms & conditions" */
+.signup-page .input-group a {
+  color: #12C675; /* Couleur verte pour le lien "terms & conditions" */
+  text-decoration: none;
+}
+
+.signup-page .input-group a:hover {
+  text-decoration: underline;
+}
+
+
+.signup-page .terms-link {
+  color: #12C675; /* Couleur verte */
+  text-decoration: none;
+  margin-left: 5px; /* Ajoute un espace avant le lien */
+}
+
+.signup-page .terms-link:hover {
+  text-decoration: underline;
+}
+
+/* Style du message d'erreur */
+.signup-page .error-message {
+  color: red;
+  font-size: 12px;
+  margin-top: 10px;
+  text-align: center;
+}
