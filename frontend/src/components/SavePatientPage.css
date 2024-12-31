@@ -1,0 +1,79 @@
+.save-patient-page {
+    background: linear-gradient(to bottom, #a7e3bc, #cef1d9cb), url('../assets/images/background signup.jpg') center/cover no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* S'assure que la section couvre au moins 100% de la hauteur de la fenêtre */
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    padding-top: 80px;
+  }
+  
+  .patient-form {
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 800px;
+    width: 100%;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    padding-top: 80px;
+  }
+  
+  h2, h3 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .form-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    width: 30%;
+    font-weight: bold;
+    color: #333;
+    margin-right: 5px; /* Réduire l'espace entre le label et l'input */
+  }
+  
+  .form-group input,
+  .form-group select,
+  .form-group textarea {
+    width: 65%;
+    padding: 6px; /* Peut réduire l'espace à l'intérieur du champ si nécessaire */
+    margin: 0; /* Supprimer les marges par défaut entre les éléments */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  textarea {
+    resize: none;
+    height: 80px;
+  }
+  
+  .form-submit {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  button {
+    background-color: #12C675;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 150px;
+  }
+  
+  button:hover {
+    background-color: #019270;
+  }
+  
