@@ -1,0 +1,134 @@
+.upload-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background:
+    linear-gradient(to bottom, #a7e3bc, #cef1d9cb),
+    url('../assets/images/background signup.jpg') center/cover no-repeat;
+    color: #444444;
+    min-height: 100vh;
+    padding-top: 80px;
+    position: relative;
+}
+
+.header h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+}
+
+.dropzone {
+    width: 400px;
+    height: 200px;
+    border: 2px dashed #28a745;
+    border-radius: 12px;
+    background-color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.dropzone:hover {
+    background-color: rgba(255, 255, 255, 1);
+    border-color: #218838;
+}
+
+.dropzone p {
+    color: #444;
+    font-size: 16px;
+}
+
+.upload-progress {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.upload-progress h4 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.upload-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.upload-item p {
+    margin: 0;
+    color: #333;
+}
+
+.upload-item progress {
+    width: 60%;
+    height: 10px;
+    margin-left: 10px;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.upload-item progress::-webkit-progress-bar {
+    background-color: #e0e0e0;
+    border-radius: 5px;
+}
+
+.upload-item progress::-webkit-progress-value {
+    background-color: #28a745;
+    border-radius: 5px;
+}
+
+
+.show-prediction-btn {
+    background-color: #12C675;
+    color: white;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    font-family: "Saira Condensed", sans-serif;
+}
+
+.show-prediction-btn:hover {
+    background-color: #0aac63c7;
+    transform: scale(1.05);
+}
+
+
+.delete-btn {
+    background-color: #dc3545;
+    color: white;
+    padding: 5px 10px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    margin-left: 15px;
+    transition: background-color 0.3s ease;
+}
+
+.delete-btn:hover {
+    background-color: #c82333;
+}
+
+.upload-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
