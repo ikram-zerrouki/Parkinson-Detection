@@ -5,9 +5,30 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #f9f9f9;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/* src/YourStyles.css */
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Now you can use the font in your styles */
+.saira-condensed-thin {
+  font-family: "Saira Condensed", sans-serif;
+  font-weight: 100;
+}
+
+.saira-condensed-bold {
+  font-family: "Saira Condensed", sans-serif;
+  font-weight: 700;
+}
+
+/* Apply globally if needed */
+body {
+  font-family: "Saira Condensed", sans-serif;
+  font-weight: 400; /* Default weight */
 }
