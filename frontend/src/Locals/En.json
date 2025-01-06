@@ -1,0 +1,84 @@
+{
+    "nav": {
+    "menu": "Menu",
+    "about": "About",
+    "contact": "Contact",
+    "languageSwitcher": {
+      "en": "English",
+      "fr": "French"
+    },
+    "logout": "Logout"
+  },
+    "about": {
+      "title": "About ",
+      "sections": {
+        "projectInfoTitle": "Project Information",
+        "projectInfo": "PARKINSON AID is a web-based application designed to assist neurologists in the diagnosis of Parkinson's disease using MRI images. The platform allows medical professionals to upload multiple MRI scans simultaneously and receive a binary result indicating the presence or absence of Parkinson's disease. As part of a practical internship, this work is done by a pair of students.",
+        "technicalDetailsTitle": "Technical Details",
+        "technicalDetails": "Our project leverages machine learning techniques to assist doctors in diagnosing Parkinson's disease using MRI images. It uses the NTUA Parkinson’s Dataset. Before feeding the images into our models, we apply several preprocessing techniques to enhance their quality and make them more suitable for analysis, and then we train our model to learn the differences between healthy and Parkinson’s-affected brains."
+      },
+      "visionMissionValues": {
+        "title": "Our Vision, Mission, and Values",
+        "visionTitle": "Vision",
+        "vision": "Our vision is to revolutionize the early diagnosis of Parkinson's disease through innovative technology, making advanced diagnostic tools accessible to medical professionals. We aim to empower healthcare providers with accurate, efficient, and reliable solutions that enhance patient care and improve outcomes.",
+        "missionTitle": "Mission",
+        "mission": "Our mission is to develop a user-friendly, AI-powered platform that assists neurologists in the timely and accurate diagnosis of Parkinson's disease. We strive to bridge the gap between cutting-edge technology and clinical practice by offering a robust tool that simplifies the diagnostic process, enabling doctors to focus on patient care.",
+        "valuesTitle": "Values",
+        "values": 
+        {
+          "valueone": "-   Accuracy:",
+          "valueonetext": "Ensuring the highest level of diagnostic precision is our top priority, as we understand the critical importance of accurate medical assessments.",
+          "valuetwo": "-   Accessibility: ",
+          "valuetwotext": "We believe in making advanced diagnostic technologies accessible to all healthcare providers, regardless of their location or resources.",
+          "valuethree": "-   Collaboration: ",
+          "valuethreetext": " We value the power of teamwork and collaboration, working closely with medical professionals to continuously improve our platform based on their feedback and needs.",
+          "valuefour": "-   Integrity: ",
+          "valuefourtext": "We uphold the highest standards of integrity in our work, ensuring the confidentiality and security of patient data while delivering trustworthy results",
+          "valuefive": "-   Empathy: ",
+          "valuefivetext": "We recognize the human element in healthcare and strive to support doctors and patients with compassionate, user-centric solutions."
+        }
+      },
+      "team": {
+        "title": "Team",
+        "members": {
+          "ikram": {
+            "name": "ZERROUKI Ikram",
+            "description": "Computer science student at High National School Of Computer Science - ESI",
+            "linkedin": "LinkedIn",
+            "gmail": "Gmail"
+          },
+          "safia": {
+            "name": "BENGUIAR Safia Ines",
+            "description": "Computer science student at High National School Of Computer Science - ESI",
+            "linkedin": "LinkedIn",
+            "gmail": "Gmail"
+          }
+        }
+      },
+      "supervisedBy": {
+        "title": "Supervised By",
+        "name": "Ms. Boulkrinat Nour El Houda",
+        "position": "Research associate - Information Systems and Multimedia Systems Division (DSISM)",
+        "organization": "Center for Research on Scientific and Technical Information - CERIST",
+        "address": "5 Rue des 3 Frères Aïssou, Ben Aknoun BP 16030 Alger",
+        "phone": "Phone: 021 91 21 86",
+        "email": "Email: nboulkrinat@cerist.dz, nboulkrinat@cerist.dz"
+      }
+    },
+    "contact": {
+    "title": "Contact Us",
+    "formInstructions": "Please fill out the form below to send us an email and we will respond as soon as possible.",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "subjectPlaceholder": "Subject",
+    "messagePlaceholder": "Message",
+    "submitButton": "Submit",
+    "feedbackTitle": "Send Feedback",
+    "feedbackInstructions": "Your feedback is important to us! Please let us know how we can improve our service or share any thoughts you have about ParkinsonAid.",
+    "feedbackButton": "Fill in the form",
+    "contactInfoTitle": "Contact Information",
+    "address": "5 Rue des 3 Frères Aïssou, Ben Aknoun BP 16030 Alger",
+    "phone": "021 91 21 86",
+    "email": "nboulkrinat@cerist.dz , nboulkrinat@gmail.com"
+  }
+  
