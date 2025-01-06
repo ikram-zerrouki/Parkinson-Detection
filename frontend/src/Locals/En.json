@@ -81,4 +81,18 @@
     "phone": "021 91 21 86",
     "email": "nboulkrinat@cerist.dz , nboulkrinat@gmail.com"
   }
+  ,
+  "dashboard": {
+    "welcome": "Welcome, Dr {{name}}!",
+    "searchPlaceholder": "Search for patients...",
+    "genderHeading": "Gender Data:",
+    "diagnosisHeading": "Diagnosis Data:",
+    "viewHistoryButton": "View Diagnosis History",
+    "newDiagnosisButton": "New Diagnosis",
+    "updateProfileButton": "Update Profile"
+  }
+
+
+
+}
   
