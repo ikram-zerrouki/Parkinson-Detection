@@ -104,6 +104,16 @@
     "negative": "No",
     "viewMore": "View More",
     "update": "Update"
+  },
+  "login": {
+    "title": "Login",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "createAccount": "Create an Account",
+    "forgotPassword": "Forgot Password?"
   }
 
 
