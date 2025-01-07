@@ -90,6 +90,20 @@
     "viewHistoryButton": "View Diagnosis History",
     "newDiagnosisButton": "New Diagnosis",
     "updateProfileButton": "Update Profile"
+  },
+  "history": {
+    "title": "Diagnosis History",
+    "filterButton": "Filter",
+    "filterByName": "By Patient Name",
+    "filterByDoctor": "By Doctor Name",
+    "filterByDate": "By Date",
+    "searchPlaceholder": "Search for patients...",
+    "refBy": "Ref By",
+    "diagnosis": "Diagnosis",
+    "positive": "Yes",
+    "negative": "No",
+    "viewMore": "View More",
+    "update": "Update"
   }
 
 
