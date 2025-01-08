@@ -141,7 +141,28 @@
     "section4": {
       "title": "4. Data Security",
       "content": "We take data security seriously and implement industry-standard measures to ensure that all personal information and medical data are securely stored and processed."
-    }
+    },
+    "section5": {
+      "title": "5. Data Retention",
+      "content": "Medical data submitted to ParkinsonAid is retained only for the time necessary to perform the AI analysis and provide results."
+    },
+    "section6": {
+      "title": "6. Your Privacy Rights",
+      "content": "As a healthcare professional using ParkinsonAid, you have the following rights regarding your data:"
+    },
+    "section7": {
+      "title": "7. Third-Party Links",
+      "content": "Our platform may contain links to external websites. Please note that this Privacy Policy does not apply to those third-party websites."
+    },
+    "section8": {
+      "title": "8. Changes to This Privacy Policy",
+      "content": "We reserve the right to update this Privacy Policy from time to time to reflect changes in regulations or our services."
+    },
+    "section9": {
+      "title": "9. Contact Us",
+      "content": "If you have any questions or concerns regarding this Privacy Policy, please contact us:"
+    },
+    "backButton": "Back"
 
   }
 
