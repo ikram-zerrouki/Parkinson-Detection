@@ -121,6 +121,28 @@
     "predictionResult": "The MRI images indicate a high likelihood of Parkinson's disease.",
     "saveButton": "Save",
     "exitButton": "Exit"
+  },
+  
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "At ParkinsonAid, developed by CERIST (Centre de Recherche sur l'Information Scientifique et Technique), your privacy is important to us. We understand the importance of safeguarding the privacy and confidentiality of personal and medical information. This Privacy Policy outlines how we collect, use, and protect the data you submit through our platform, specifically tailored for healthcare professionals.",
+    "section1": {
+      "title": "1. Information We Collect",
+      "content": "We collect MRI images and related medical data solely for the purpose of providing AI-driven analysis to assist in detecting Parkinson's disease. This data is treated with the highest level of confidentiality."
+    },
+    "section2": {
+      "title": "2. How We Use Your Information",
+      "content": "The data collected on ParkinsonAid is used exclusively for the following purposes:"
+    },
+    "section3": {
+      "title": "3. Data Sharing and Disclosure",
+      "content": "No personal data or medical information is used for commercial purposes or shared with external parties for research without your explicit consent."
+    },
+    "section4": {
+      "title": "4. Data Security",
+      "content": "We take data security seriously and implement industry-standard measures to ensure that all personal information and medical data are securely stored and processed."
+    }
+
   }
 
 
