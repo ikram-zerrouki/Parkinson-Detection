@@ -114,6 +114,13 @@
     "loginButton": "Login",
     "createAccount": "Create an Account",
     "forgotPassword": "Forgot Password?"
+  },
+  "prediction": {
+    "title": "Prediction Results",
+    "uploadedImages": "You have uploaded 3 MRI images",
+    "predictionResult": "The MRI images indicate a high likelihood of Parkinson's disease.",
+    "saveButton": "Save",
+    "exitButton": "Exit"
   }
 
 
