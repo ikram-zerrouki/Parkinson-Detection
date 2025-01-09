@@ -164,7 +164,21 @@
     },
     "backButton": "Back"
 
-  }
+  },
+  "profileDoctor": {
+  "title": "Doctor's Profile",
+  "nameLabel": "Name:",
+  "dobLabel": "Date of Birth:",
+  "emailLabel": "Email Address:",
+  "phoneNumberLabel": "Phone Number:",
+  "uploadPicLabel": "Upload Personal Picture",
+  "addPhotoText": "Add Photo",
+  "saveProfileButton": "Save Profile",
+  "exitButton": "Exit",
+  "placeholderName": "Enter doctor's name",
+  "placeholderEmail": "Enter email address",
+  "placeholderPhoneNumber": "Enter phone number"
+}
 
 
 
