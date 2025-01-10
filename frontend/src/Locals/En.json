@@ -178,7 +178,40 @@
   "placeholderName": "Enter doctor's name",
   "placeholderEmail": "Enter email address",
   "placeholderPhoneNumber": "Enter phone number"
-}
+},
+"savePatient": {
+      "patientTitle": "Patient",
+      "nameLabel": "Name",
+      "namePlaceholder": "Enter patient name",
+      "idLabel": "ID Patient",
+      "idPlaceholder": "Enter patient ID",
+      "dobLabel": "Date Of Birth",
+      "genderLabel": "Gender",
+      "genderPlaceholder": "Select gender",
+      "male": "Male",
+      "female": "Female",
+      "phoneLabel": "Phone Number",
+      "phonePlaceholder": "Enter phone number",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "Enter email address",
+      "irmLabel": "Number Of MRI Images",
+      "irmPlaceholder": "Enter number",
+      "diagnosisLabel": "Diagnosis Result",
+      "diagnosisPlaceholder": "Enter diagnosis result",
+      "descriptionLabel": "Description",
+      "descriptionPlaceholder": "Enter description",
+      "updateLabel": "Date Of Last Update",
+      "doctorLabel": "Name Of Doctor",
+      "doctorPlaceholder": "Enter doctor's name",
+      "emergencyTitle": "Person To Contact In Case Of Emergency - Tap (/) If Not",
+      "emergencyNameLabel": "Name",
+      "emergencyNamePlaceholder": "Enter emergency contact name",
+      "relationLabel": "Relation With Patient",
+      "relationPlaceholder": "Enter relation",
+      "emergencyPhoneLabel": "Phone Number",
+      "emergencyPhonePlaceholder": "Enter phone number",
+      "submitButton": "Submit"
+    }
 
 
 
