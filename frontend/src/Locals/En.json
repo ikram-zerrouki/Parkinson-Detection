@@ -211,6 +211,21 @@
       "emergencyPhoneLabel": "Phone Number",
       "emergencyPhonePlaceholder": "Enter phone number",
       "submitButton": "Submit"
+    },
+    "signup": {
+      "title": "Sign Up",
+      "nameLabel": "Name",
+      "emailLabel": "Email",
+      "passwordLabel": "Password",
+      "namePlaceholder": "Enter your name",
+      "emailPlaceholder": "Enter your email",
+      "passwordPlaceholder": "Enter your password",
+      "agreeTerms": "I read and agree to",
+      "termsLink": "terms & conditions",
+      "errorMessage": "You must agree to the terms & conditions before signing up.",
+      "alreadyAccount": "Already have an Account?",
+      "loginLink": "Log In",
+      "signupButton": "Sign Up"
     }
 
 
