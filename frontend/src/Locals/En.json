@@ -257,9 +257,16 @@
       "attemptedtwo": " images attempted",
       "uploaded": "Uploaded: ",
       "failed": "Failed: "
-    }
+    },
+    "status": {
+      "uploading": "Uploading",
+      "uploaded": "Uploaded",
+      "failed": "Failed"
+    },
+    "deleteButton": "Delete",
+    "showPredictionButton": "Show Prediction"
 
-    
+
   }
 
 
