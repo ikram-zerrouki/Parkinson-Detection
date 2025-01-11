@@ -226,7 +226,28 @@
       "alreadyAccount": "Already have an Account?",
       "loginLink": "Log In",
       "signupButton": "Sign Up"
-    }
+    },
+    "termsTitle": "Terms & Conditions",
+  "termsWelcome": "Welcome to ParkinsonAid, a platform dedicated to providing advanced AI-driven analysis of MRI images for the early detection of Parkinson's disease. By accessing or using our platform, you agree to comply with and be bound by the following terms and conditions. Please read them carefully, as they govern your use of our website and services.",
+  "termsAcceptanceTitle": "1. Acceptance of Terms",
+  "termsAcceptance": "By using ParkinsonAid, you acknowledge that you are a licensed medical professional and that you agree to be bound by these terms.",
+  "termsProfessionalUseTitle": "2. Professional Use Only",
+  "termsProfessionalUse": "This platform is exclusively intended for use by qualified healthcare providers, including physicians, neurologists, and other medical professionals.",
+  "termsDataPrivacyTitle": "3. Data Privacy and Confidentiality",
+  "termsDataPrivacy": "We are committed to safeguarding the confidentiality of your patients' medical data.",
+  "termsMedicalDisclaimerTitle": "4. Medical Disclaimer",
+  "termsMedicalDisclaimer": "The AI analysis provided by ParkinsonAid is intended as a supplementary tool to support the clinical evaluation of Parkinson's disease.",
+  "termsDataSecurityTitle": "5. Data Security and Integrity",
+  "termsDataSecurity": "ParkinsonAid implements security measures to protect patient data and ensure the integrity of our AI models.",
+  "termsIntellectualPropertyTitle": "6. Intellectual Property",
+  "termsIntellectualProperty": "The intellectual property rights for all content and software on the ParkinsonAid platform, including AI models, belong to ParkinsonAid or our licensors.",
+  "termsLiabilityTitle": "7. Limitation of Liability",
+  "termsLiability": "ParkinsonAid strives to provide accurate and reliable results.",
+  "termsUserResponsibilitiesTitle": "8. User Responsibilities",
+  "termsUserResponsibilities": "As a healthcare professional using ParkinsonAid, you are responsible for maintaining the security of your account.",
+  "termsModificationsTitle": "9. Modifications to the Service",
+  "termsModifications": "We reserve the right to modify, update, or discontinue any features of ParkinsonAid without prior notice.",
+  "backButton": "Back"
 
 
 
