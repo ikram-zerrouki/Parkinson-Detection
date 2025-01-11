@@ -247,7 +247,20 @@
   "termsUserResponsibilities": "As a healthcare professional using ParkinsonAid, you are responsible for maintaining the security of your account.",
   "termsModificationsTitle": "9. Modifications to the Service",
   "termsModifications": "We reserve the right to modify, update, or discontinue any features of ParkinsonAid without prior notice.",
-  "backButton": "Back"
+  "backButton": "Back",
+  "upload": {
+    "title": "Upload MRI Images for Parkinson's Prediction",
+    "dropzoneInstruction": "Drag & drop MRI image",
+    "dropzoneSupportedFormats": "Supported formats: JPEG, PNG",
+    "uploadProgress": {
+      "attempted": "Uploading - ",
+      "attemptedtwo": " images attempted",
+      "uploaded": "Uploaded: ",
+      "failed": "Failed: "
+    }
+
+    
+  }
 
 
 
