@@ -266,7 +266,28 @@
     "deleteButton": "Delete",
     "showPredictionButton": "Show Prediction"
 
-
+  },
+  "viewMorePatient": {
+    "loading": "Loading...",
+    "title": "Patient Information",
+    "name": "Name",
+    "id": "ID Patient",
+    "birthday": "Date Of Birthday",
+    "gender": "Gender",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "numberOfIRM": "Number Of IRM Images",
+    "diagnosisResult": "Diagnosis Result",
+    "description": "Description",
+    "lastUpdate": "Date Of Last Update",
+    "doctorName": "Name Of Doctor",
+    "emergencyContact": {
+      "title": "Person To Contact In Case Of Emergency",
+      "name": "Name",
+      "relation": "Relation With Patient",
+      "phone": "Phone Number"
+    },
+    "backButton": "Back"
   }
 
 
