@@ -288,7 +288,18 @@
       "phone": "Phone Number"
     },
     "backButton": "Back"
-  }
+  },
+  "menuHome": "Menu",
+    "aboutHome": "About",
+    "contactHome": "Contact",
+    "loginHome": "Log In",
+    "signupHome": "Sign Up",
+    "headerHome": {
+      "titleHome": "Detect",
+      "highlightHome": "Parkinson",
+      "subtitleHome": "With Precision, Act With ",
+      "ConfidenceHome": "Confidence"
+    }
 
 
 
