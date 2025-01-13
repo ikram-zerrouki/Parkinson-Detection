@@ -299,6 +299,14 @@
       "highlightHome": "Parkinson",
       "subtitleHome": "With Precision, Act With ",
       "ConfidenceHome": "Confidence"
+    },
+    "infoSectionHome": {
+      "title1Home": "How to begin using Parkinson Aid",
+      "description1Home": "Parkinson Aid is designed exclusively for neurologists and healthcare professionals to leverage advanced MRI-based diagnostics for Parkinson’s disease. By utilizing our platform, you can seamlessly upload and analyze high-resolution MRI scans using state-of-the-art AI algorithms tailored to detect early signs of Parkinson’s with exceptional accuracy. Once you sign up, you’ll be able to securely store and manage your patients' MRI data, allowing for ongoing monitoring and easy access to historical records. Begin your journey with Parkinson Aid today and integrate powerful, data-driven insights into your practice for improved patient care.",
+      "signUpHome": "Sign Up",
+      "title2Home": "How it works behind the scenes",
+      "description2Home": "Behind the scenes, Parkinson Aid harnesses the power of advanced machine learning to analyze MRI scans with precision and speed. Our AI model has been trained on thousands of images to recognize subtle patterns and changes in the brain that are early indicators of Parkinson’s disease. When a new MRI scan is uploaded, the model processes it, compares it with vast datasets, and identifies potential markers that might not be visible to the human eye. The result is a reliable, data-driven analysis that helps doctors make more informed decisions, all while continuously learning and improving from new data. This cutting-edge technology brings a new level of confidence and accuracy to Parkinson’s detection.",
+      "learnMoreHome": "Learn More"
     }
 
 
