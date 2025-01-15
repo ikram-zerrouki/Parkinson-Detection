@@ -1,0 +1,13 @@
+{
+    "nav": {
+    "menu": "Menu",
+    "about": "À propos",
+    "contact": "Contact",
+    "languageSwitcher": {
+      "en": "Anglais",
+      "fr": "Français"
+    },
+    "logout": "Déconnexion"
+  }
+
+}
