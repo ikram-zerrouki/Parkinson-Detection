@@ -16,8 +16,16 @@
         "projectInfo": "PARKINSON AID est une application web conçue pour aider les neurologues dans le diagnostic de la maladie de Parkinson en utilisant des images IRM. La plateforme permet aux professionnels de la santé de télécharger plusieurs IRM simultanément et de recevoir un résultat binaire indiquant la présence ou l'absence de la maladie de Parkinson. Dans le cadre d'un stage pratique, ce travail est réalisé par une paire d'étudiants.",
         "technicalDetailsTitle": "Détails Techniques",
         "technicalDetails": "Notre projet utilise des techniques d'apprentissage automatique pour aider les médecins dans le diagnostic de la maladie de Parkinson à l'aide des images IRM. Il utilise le jeu de données NTUA Parkinson’s. Avant de nourrir les images dans nos modèles, nous appliquons plusieurs techniques de prétraitement pour améliorer leur qualité et les rendre plus adaptées à l'analyse, puis nous entraînons notre modèle à apprendre les différences entre les cerveaux sains et ceux affectés par Parkinson."
-      }
+      },
+      "visionMissionValues": {
+        "title": "Notre Vision, Mission et Valeurs",
+        "visionTitle": "Vision",
+        "vision": "Notre vision est de révolutionner le diagnostic précoce de la maladie de Parkinson grâce à une technologie innovante, rendant les outils diagnostiques avancés accessibles aux professionnels de santé. Nous visons à permettre aux prestataires de soins de santé de disposer de solutions précises, efficaces et fiables qui améliorent les soins aux patients et les résultats.",
+        "missionTitle": "Mission",
+        "mission": "Notre mission est de développer une plateforme conviviale, alimentée par l'IA, qui aide les neurologues dans le diagnostic opportun et précis de la maladie de Parkinson. Nous nous efforçons de combler le fossé entre la technologie de pointe et la pratique clinique en offrant un outil robuste qui simplifie le processus de diagnostic, permettant aux médecins de se concentrer sur les soins aux patients.",
+        "valuesTitle": "Valeurs"
     
     }
+  }
 
 }
