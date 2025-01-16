@@ -8,6 +8,16 @@
       "fr": "Français"
     },
     "logout": "Déconnexion"
-  }
+  },
+  "about": {
+      "title": "À propos de ",
+      "sections": {
+        "projectInfoTitle": "Informations sur le Projet",
+        "projectInfo": "PARKINSON AID est une application web conçue pour aider les neurologues dans le diagnostic de la maladie de Parkinson en utilisant des images IRM. La plateforme permet aux professionnels de la santé de télécharger plusieurs IRM simultanément et de recevoir un résultat binaire indiquant la présence ou l'absence de la maladie de Parkinson. Dans le cadre d'un stage pratique, ce travail est réalisé par une paire d'étudiants.",
+        "technicalDetailsTitle": "Détails Techniques",
+        "technicalDetails": "Notre projet utilise des techniques d'apprentissage automatique pour aider les médecins dans le diagnostic de la maladie de Parkinson à l'aide des images IRM. Il utilise le jeu de données NTUA Parkinson’s. Avant de nourrir les images dans nos modèles, nous appliquons plusieurs techniques de prétraitement pour améliorer leur qualité et les rendre plus adaptées à l'analyse, puis nous entraînons notre modèle à apprendre les différences entre les cerveaux sains et ceux affectés par Parkinson."
+      }
+    
+    }
 
 }
