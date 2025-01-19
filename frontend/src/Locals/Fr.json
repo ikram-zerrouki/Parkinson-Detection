@@ -38,6 +38,24 @@
         
         }
     }
+    ,
+      "team": {
+        "title": "Équipe",
+        "members": {
+          "ikram": {
+            "name": "ZERROUKI Ikram",
+            "description": "Étudiante en informatique à l'École Supérieure d'Informatique - ESI",
+            "linkedin": "LinkedIn",
+            "gmail": "Gmail"
+          },
+          "safia": {
+            "name": "BENGUIAR Safia Ines",
+            "description": "Étudiante en informatique à l'École Supérieure d'Informatique - ESI",
+            "linkedin": "LinkedIn",
+            "gmail": "Gmail"
+          }
+        }
+      }
   }
 
 }
