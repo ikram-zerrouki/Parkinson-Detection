@@ -23,8 +23,20 @@
         "vision": "Notre vision est de révolutionner le diagnostic précoce de la maladie de Parkinson grâce à une technologie innovante, rendant les outils diagnostiques avancés accessibles aux professionnels de santé. Nous visons à permettre aux prestataires de soins de santé de disposer de solutions précises, efficaces et fiables qui améliorent les soins aux patients et les résultats.",
         "missionTitle": "Mission",
         "mission": "Notre mission est de développer une plateforme conviviale, alimentée par l'IA, qui aide les neurologues dans le diagnostic opportun et précis de la maladie de Parkinson. Nous nous efforçons de combler le fossé entre la technologie de pointe et la pratique clinique en offrant un outil robuste qui simplifie le processus de diagnostic, permettant aux médecins de se concentrer sur les soins aux patients.",
-        "valuesTitle": "Valeurs"
-    
+        "valuesTitle": "Valeurs",
+      "values": {
+          "valueone": "-   Précision :",
+          "valueonetext": "Assurer le plus haut niveau de précision diagnostique est notre priorité absolue, car nous comprenons l'importance cruciale des évaluations médicales précises.",
+          "valuetwo": "-   Accessibilité : ",
+          "valuetwotext": "Nous croyons en rendant les technologies diagnostiques avancées accessibles à tous les prestataires de soins de santé, indépendamment de leur emplacement ou de leurs ressources.",
+          "valuethree": "-   Collaboration: ",
+          "valuethreetext": " Nous valorisons la puissance du travail d'équipe et de la collaboration, en travaillant en étroite collaboration avec les professionnels de santé pour améliorer continuellement notre plateforme en fonction de leurs retours et de leurs besoins.",
+          "valuefour": "-   Intégrité : ",
+          "valuefourtext": "Nous respectons les plus hauts standards d'intégrité dans notre travail, en veillant à la confidentialité et à la sécurité des données des patients tout en fournissant des résultats fiables.",
+          "valuefive": "-   Empathie : ",
+          "valuefivetext": "Nous reconnaissons l'élément humain dans les soins de santé et nous nous efforçons de soutenir les médecins et les patients avec des solutions centrées sur l'utilisateur et empreintes de compassion."
+        
+        }
     }
   }
 
