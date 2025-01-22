@@ -37,7 +37,7 @@
           "valuefivetext": "Nous reconnaissons l'élément humain dans les soins de santé et nous nous efforçons de soutenir les médecins et les patients avec des solutions centrées sur l'utilisateur et empreintes de compassion."
         
         }
-    }}
+      }
     ,
       "team": {
         "title": "Équipe",
@@ -55,7 +55,19 @@
             "gmail": "Gmail"
           }
         }
+      },
+      "supervisedBy": {
+        "title": "Supervisé Par",
+        "name": "Mme Boulkrinat Nour El Houda",
+        "position": "Attachée de recherche - Division des Systèmes d'Information et des Systèmes Multimédia (DSISM)",
+        "organization": "Centre de Recherche sur l'Information Scientifique et Technique - CERIST",
+        "address": "5 Rue des 3 Frères Aïssou, Ben Aknoun BP 16030 Alger",
+        "phone": "Téléphone : 021 91 21 86",
+        "email": "Email : nboulkrinat@cerist.dz, nboulkrinat@cerist.dz"
       }
+    
+  }
+
   
 
 }
