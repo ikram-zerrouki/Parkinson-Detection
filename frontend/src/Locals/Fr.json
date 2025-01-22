@@ -37,7 +37,7 @@
           "valuefivetext": "Nous reconnaissons l'élément humain dans les soins de santé et nous nous efforçons de soutenir les médecins et les patients avec des solutions centrées sur l'utilisateur et empreintes de compassion."
         
         }
-    }
+    }}
     ,
       "team": {
         "title": "Équipe",
@@ -56,6 +56,6 @@
           }
         }
       }
-  }
+  
 
 }
