@@ -66,7 +66,24 @@
         "email": "Email : nboulkrinat@cerist.dz, nboulkrinat@cerist.dz"
       }
     
-  }
+        }
+        ,
+        "contact": {
+          "title": "Contactez-nous",
+          "formInstructions": "Veuillez remplir le formulaire ci-dessous pour nous envoyer un email et nous vous répondrons dès que possible.",
+          "namePlaceholder": "Nom",
+          "emailPlaceholder": "Email",
+          "subjectPlaceholder": "Sujet",
+          "messagePlaceholder": "Message",
+          "submitButton": "Envoyer",
+          "feedbackTitle": "Envoyer des commentaires",
+          "feedbackInstructions": "Vos retours sont importants pour nous ! Faites-nous savoir comment nous pouvons améliorer notre service ou partagez vos réflexions sur ParkinsonAid.",
+          "feedbackButton": "Remplir le formulaire",
+          "contactInfoTitle": "Informations de contact",
+          "address": "5 Rue des 3 Frères Aïssou, Ben Aknoun BP 16030 Alger",
+          "phone": "021 91 21 86",
+          "email": "nboulkrinat@cerist.dz , nboulkrinat@gmail.com"
+        }
 
   
 
