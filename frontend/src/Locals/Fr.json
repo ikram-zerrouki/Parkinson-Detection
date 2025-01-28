@@ -93,7 +93,21 @@
           "viewHistoryButton": "Voir l'historique des diagnostics",
           "newDiagnosisButton": "Nouveau diagnostic",
           "updateProfileButton": "Mettre à jour le profil"
-        }
+        },
+        "history": {
+      "title": "Historique des diagnostics",
+      "filterButton": "Filtrer",
+      "filterByName": "Par nom du patient",
+      "filterByDoctor": "Par nom du docteur",
+      "filterByDate": "Par date",
+      "searchPlaceholder": "Rechercher des patients...",
+      "refBy": "Réf par",
+      "diagnosis": "Diagnostic",
+      "positive": "Oui",
+      "negative": "Non",
+      "viewMore": "Voir plus",
+      "update": "Mettre à jour"
+    }
 
   
 
