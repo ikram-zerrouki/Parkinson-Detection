@@ -117,6 +117,13 @@
       "loginButton": "Se connecter",
       "createAccount": "Créer un compte",
       "forgotPassword": "Mot de passe oublié ?"
+    },
+    "prediction": {
+      "title": "Résultats de la Prédiction",
+      "uploadedImages": "Vous avez téléchargé 3 images IRM",
+      "predictionResult": "Les images IRM indiquent une forte probabilité de maladie de Parkinson.",
+      "saveButton": "Enregistrer",
+      "exitButton": "Quitter"
     }
 
   
