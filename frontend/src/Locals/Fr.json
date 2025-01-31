@@ -124,6 +124,22 @@
       "predictionResult": "Les images IRM indiquent une forte probabilité de maladie de Parkinson.",
       "saveButton": "Enregistrer",
       "exitButton": "Quitter"
+    },
+    "privacy": {
+      "title": "Politique de Confidentialité",
+      "intro": "Chez ParkinsonAid, développé par CERIST (Centre de Recherche sur l'Information Scientifique et Technique), votre confidentialité est importante pour nous. Nous comprenons l'importance de protéger la confidentialité et la confidentialité des informations personnelles et médicales. Cette politique de confidentialité décrit comment nous collectons, utilisons et protégeons les données que vous soumettez via notre plateforme, spécialement conçue pour les professionnels de la santé.",
+      "section1": {
+        "title": "1. Informations que nous collectons",
+        "content": "Nous collectons des images IRM et des données médicales connexes uniquement dans le but de fournir une analyse assistée par IA pour détecter la maladie de Parkinson. Ces données sont traitées avec le plus haut niveau de confidentialité."
+      },
+      "section2": {
+        "title": "2. Comment nous utilisons vos informations",
+        "content": "Les données collectées sur ParkinsonAid sont exclusivement utilisées pour les finalités suivantes:"
+      },
+      "section3": {
+        "title": "3. Partage et divulgation des données",
+        "content": "Aucune donnée personnelle ou information médicale n'est utilisée à des fins commerciales ou de marketing, ni partagée avec des tiers à des fins de recherche sans votre consentement explicite."
+      }
     }
 
   
