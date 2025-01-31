@@ -139,6 +139,26 @@
       "section3": {
         "title": "3. Partage et divulgation des données",
         "content": "Aucune donnée personnelle ou information médicale n'est utilisée à des fins commerciales ou de marketing, ni partagée avec des tiers à des fins de recherche sans votre consentement explicite."
+      },
+      "section4": {
+        "title": "4. Sécurité des données",
+        "content": "Nous prenons la sécurité des données très au sérieux et mettons en œuvre des mesures conformes aux standards de l'industrie pour assurer que toutes les informations personnelles et médicales soient stockées et traitées en toute sécurité."
+      },
+      "section5": {
+        "title": "5. Conservation des données",
+        "content": "Les données médicales soumises à ParkinsonAid sont conservées uniquement pendant le temps nécessaire pour effectuer l'analyse IA et fournir les résultats."
+      },
+      "section6": {
+        "title": "6. Vos droits en matière de confidentialité",
+        "content": "En tant que professionnel de la santé utilisant ParkinsonAid, vous avez les droits suivants concernant vos données :"
+      },
+      "section7": {
+        "title": "7. Liens tiers",
+        "content": "Notre plateforme peut contenir des liens vers des sites Web externes. Veuillez noter que cette politique de confidentialité ne s'applique pas à ces sites tiers."
+      },
+      "section8": {
+        "title": "8. Modifications de cette politique de confidentialité",
+        "content": "Nous nous réservons le droit de mettre à jour cette politique de confidentialité de temps à autre pour refléter les changements dans la réglementation ou nos services."
       }
     }
 
