@@ -159,7 +159,13 @@
       "section8": {
         "title": "8. Modifications de cette politique de confidentialité",
         "content": "Nous nous réservons le droit de mettre à jour cette politique de confidentialité de temps à autre pour refléter les changements dans la réglementation ou nos services."
-      }
+      },
+      "section9": {
+        "title": "9. Nous contacter",
+        "content": "Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité, veuillez nous contacter :"
+      },
+      "backButton": "Retour"
+    
     }
 
   
