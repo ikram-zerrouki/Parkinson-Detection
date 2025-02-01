@@ -166,6 +166,40 @@
       },
       "backButton": "Retour"
     
+    },
+    
+    "savePatient": {
+      "patientTitle": "Patient",
+      "nameLabel": "Nom",
+      "namePlaceholder": "Entrez le nom du patient",
+      "idLabel": "ID Patient",
+      "idPlaceholder": "Entrez l'ID du patient",
+      "dobLabel": "Date de naissance",
+      "genderLabel": "Sexe",
+      "genderPlaceholder": "Sélectionnez le sexe",
+      "male": "Homme",
+      "female": "Femme",
+      "phoneLabel": "Numéro de téléphone",
+      "phonePlaceholder": "Entrez le numéro de téléphone",
+      "emailLabel": "Adresse e-mail",
+      "emailPlaceholder": "Entrez l'adresse e-mail",
+      "irmLabel": "Nombre d'images IRM",
+      "irmPlaceholder": "Entrez le nombre",
+      "diagnosisLabel": "Résultat du diagnostic",
+      "diagnosisPlaceholder": "Entrez le résultat du diagnostic",
+      "descriptionLabel": "Description",
+      "descriptionPlaceholder": "Entrez la description",
+      "updateLabel": "Date de la dernière mise à jour",
+      "doctorLabel": "Nom du docteur",
+      "doctorPlaceholder": "Entrez le nom du docteur",
+      "emergencyTitle": "Personne à contacter en cas d'urgence - Tapez (/) si aucun",
+      "emergencyNameLabel": "Nom",
+      "emergencyNamePlaceholder": "Entrez le nom du contact d'urgence",
+      "relationLabel": "Relation avec le patient",
+      "relationPlaceholder": "Entrez la relation",
+      "emergencyPhoneLabel": "Numéro de téléphone",
+      "emergencyPhonePlaceholder": "Entrez le numéro de téléphone",
+      "submitButton": "Soumettre"
     }
 
   
