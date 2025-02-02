@@ -215,7 +215,16 @@
     "alreadyAccount": "Vous avez déjà un compte?",
     "loginLink": "Connexion",
     "signupButton": "S'inscrire"
-  }
+  },
+  "termsTitle": "Conditions générales",
+  "termsWelcome": "Bienvenue sur ParkinsonAid, une plateforme dédiée à fournir une analyse avancée basée sur l'IA des images IRM pour la détection précoce de la maladie de Parkinson. En accédant ou en utilisant notre plateforme, vous acceptez de vous conformer aux conditions générales suivantes. Veuillez les lire attentivement, car elles régissent votre utilisation de notre site Web et de nos services.",
+  "termsAcceptanceTitle": "1. Acceptation des Conditions",
+  "termsAcceptance": "En utilisant ParkinsonAid, vous reconnaissez que vous êtes un professionnel de santé agréé et que vous acceptez d'être lié par ces conditions. Votre utilisation continue de la plateforme constitue une acceptation des mises à jour ou des révisions de ces conditions.",
+  "termsProfessionalUseTitle": "2. Usage Professionnel Uniquement",
+  "termsProfessionalUse": "Cette plateforme est exclusivement destinée à un usage par des prestataires de soins de santé qualifiés, notamment des médecins, des neurologues et d'autres professionnels de la santé. L'analyse fournie par notre modèle IA est conçue pour aider à la prise de décision clinique mais ne remplace pas le jugement clinique ou les processus de diagnostic.",
+  "termsDataPrivacyTitle": "3. Confidentialité et Protection des Données",
+  "termsDataPrivacy": "Nous nous engageons à protéger la confidentialité des données médicales de vos patients. En utilisant ParkinsonAid, vous consentez au traitement sécurisé des images IRM des patients et de toute autre donnée fournie pour analyse.",
+  "termsMedicalDisclaimerTitle": "4. Avertissement Médical"
 
   
 
