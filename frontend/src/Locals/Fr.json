@@ -200,7 +200,22 @@
       "emergencyPhoneLabel": "Numéro de téléphone",
       "emergencyPhonePlaceholder": "Entrez le numéro de téléphone",
       "submitButton": "Soumettre"
-    }
+    },
+    "signup": {
+    "title": "Inscription",
+    "nameLabel": "Nom",
+    "emailLabel": "Email",
+    "passwordLabel": "Mot de passe",
+    "namePlaceholder": "Entrez votre nom",
+    "emailPlaceholder": "Entrez votre email",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "agreeTerms": "J'ai lu et j'accepte les",
+    "termsLink": "termes et conditions",
+    "errorMessage": "Vous devez accepter les termes et conditions avant de vous inscrire.",
+    "alreadyAccount": "Vous avez déjà un compte?",
+    "loginLink": "Connexion",
+    "signupButton": "S'inscrire"
+  }
 
   
 
