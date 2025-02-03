@@ -224,7 +224,19 @@
   "termsProfessionalUse": "Cette plateforme est exclusivement destinée à un usage par des prestataires de soins de santé qualifiés, notamment des médecins, des neurologues et d'autres professionnels de la santé. L'analyse fournie par notre modèle IA est conçue pour aider à la prise de décision clinique mais ne remplace pas le jugement clinique ou les processus de diagnostic.",
   "termsDataPrivacyTitle": "3. Confidentialité et Protection des Données",
   "termsDataPrivacy": "Nous nous engageons à protéger la confidentialité des données médicales de vos patients. En utilisant ParkinsonAid, vous consentez au traitement sécurisé des images IRM des patients et de toute autre donnée fournie pour analyse.",
-  "termsMedicalDisclaimerTitle": "4. Avertissement Médical"
+  "termsMedicalDisclaimerTitle": "4. Avertissement Médical",
+  "termsMedicalDisclaimer": "L'analyse IA fournie par ParkinsonAid est destinée à être utilisée comme un outil supplémentaire pour soutenir l'évaluation clinique de la maladie de Parkinson.",
+  "termsDataSecurityTitle": "5. Sécurité et Intégrité des Données",
+  "termsDataSecurity": "ParkinsonAid met en œuvre des mesures de sécurité pour protéger les données des patients et garantir l'intégrité de nos modèles IA. Cependant, nous ne pouvons garantir une protection absolue contre les violations potentielles de données.",
+  "termsIntellectualPropertyTitle": "6. Propriété Intellectuelle",
+  "termsIntellectualProperty": "Les droits de propriété intellectuelle sur tout le contenu et les logiciels de la plateforme ParkinsonAid, y compris les modèles IA, appartiennent à ParkinsonAid ou à nos concédants.",
+  "termsLiabilityTitle": "7. Limitation de Responsabilité",
+  "termsLiability": "ParkinsonAid s'efforce de fournir des résultats précis et fiables. Cependant, nous ne garantissons pas l'exactitude, l'exhaustivité ou l'actualité de l'analyse IA.",
+  "termsUserResponsibilitiesTitle": "8. Responsabilités de l'Utilisateur",
+  "termsUserResponsibilities": "En tant que professionnel de la santé utilisant ParkinsonAid, vous êtes responsable de la sécurité de votre compte.",
+  "termsModificationsTitle": "9. Modifications du Service",
+  "termsModifications": "Nous nous réservons le droit de modifier, mettre à jour ou interrompre les fonctionnalités de ParkinsonAid sans préavis.",
+  "backButton": "Retour"
 
   
 
