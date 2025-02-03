@@ -236,7 +236,19 @@
   "termsUserResponsibilities": "En tant que professionnel de la santé utilisant ParkinsonAid, vous êtes responsable de la sécurité de votre compte.",
   "termsModificationsTitle": "9. Modifications du Service",
   "termsModifications": "Nous nous réservons le droit de modifier, mettre à jour ou interrompre les fonctionnalités de ParkinsonAid sans préavis.",
-  "backButton": "Retour"
+  "backButton": "Retour",
+  "upload": {
+    "title": "Téléchargez des images IRM pour la prédiction de la maladie de Parkinson",
+    "dropzoneInstruction": "Glissez-déposez une image IRM",
+    "dropzoneSupportedFormats": "Formats pris en charge : JPEG, PNG",
+    "uploadProgress": {
+      "attempted": "Téléchargement - ",
+      "attemptedtwo": " images tentées",
+      "uploaded": "Téléchargées : ",
+      "failed": " Échouées : "
+    }
+
+  }
 
   
 
