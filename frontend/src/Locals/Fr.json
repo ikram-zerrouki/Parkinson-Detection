@@ -254,7 +254,23 @@
     },
     "deleteButton": "Supprimer",
     "showPredictionButton": "Afficher la prédiction"
-
+  },
+  "viewMorePatient": {
+    "loading": "Chargement...",
+    "title": "Informations sur le patient",
+    "name": "Nom",
+    "id": "ID Patient",
+    "birthday": "Date de naissance",
+    "gender": "Sexe",
+    "phone": "Numéro de téléphone",
+    "email": "Adresse e-mail",
+    "numberOfIRM": "Nombre d'IRM",
+    "diagnosisResult": "Résultat du diagnostic",
+    "description": "Description",
+    "lastUpdate": "Date de la dernière mise à jour",
+    "doctorName": "Nom du médecin",
+    
+    "backButton": "Retour"
   }
 
   
