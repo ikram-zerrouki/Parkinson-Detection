@@ -269,7 +269,12 @@
     "description": "Description",
     "lastUpdate": "Date de la dernière mise à jour",
     "doctorName": "Nom du médecin",
-    
+    "emergencyContact": {
+      "title": "Personne à contacter en cas d'urgence",
+      "name": "Nom",
+      "relation": "Relation avec le patient",
+      "phone": "Numéro de téléphone"
+    },
     "backButton": "Retour"
   }
 
