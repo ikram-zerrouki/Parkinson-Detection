@@ -246,6 +246,11 @@
       "attemptedtwo": " images tentées",
       "uploaded": "Téléchargées : ",
       "failed": " Échouées : "
+    },
+    "status": {
+      "uploading": "Téléchargement en cours",
+      "uploaded": " Téléchargé",
+      "failed": "Échoué"
     }
 
   }
