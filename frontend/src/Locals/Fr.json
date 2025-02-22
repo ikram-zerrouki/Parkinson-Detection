@@ -251,7 +251,9 @@
       "uploading": "Téléchargement en cours",
       "uploaded": " Téléchargé",
       "failed": "Échoué"
-    }
+    },
+    "deleteButton": "Supprimer",
+    "showPredictionButton": "Afficher la prédiction"
 
   }
 
