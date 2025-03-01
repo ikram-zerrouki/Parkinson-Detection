@@ -299,6 +299,12 @@
     "description2Home": "En coulisses, Parkinson Aid exploite la puissance de l'apprentissage automatique avancé pour analyser les scans IRM avec précision et rapidité. Notre modèle d'IA a été entraîné sur des milliers d'images pour reconnaître des schémas subtils et des changements dans le cerveau qui sont des indicateurs précoces de la maladie de Parkinson. Lorsqu'un nouveau scan IRM est téléchargé, le modèle le traite, le compare à de vastes ensembles de données et identifie des marqueurs potentiels qui pourraient ne pas être visibles à l'œil humain. Le résultat est une analyse fiable et basée sur les données qui aide les médecins à prendre des décisions plus éclairées, tout en continuant à apprendre et à s'améliorer grâce à de nouvelles données. Cette technologie de pointe apporte un nouveau niveau de confiance et de précision dans la détection de Parkinson.",
     "learnMoreHome": "En savoir plus"
   }
+  ,
+    "footerHome": {
+      "termsHome": "Conditions générales",
+      "privacyHome": "Politique de confidentialité",
+      "rightsHome": "Tous droits réservés"
+    }
   
 
 }
