@@ -276,7 +276,14 @@
       "phone": "Numéro de téléphone"
     },
     "backButton": "Retour"
-  }
+  },
+  
+  
+  "menuHome": "Menu",
+  "aboutHome": "À propos",
+  "contactHome": "Contact",
+  "loginHome": "Connexion",
+  "signupHome": "S'inscrire"
 
   
 
